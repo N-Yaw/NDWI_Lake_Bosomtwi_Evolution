@@ -1,5 +1,5 @@
 # NDWI_Lake_Bosomtwi_Evolution
-NDWI Analysis of Lake Bosomtwe (2018 vs. 2022)
+NDWI Analysis of Lake Bosomtwe (2018 vs. 2022):
 This repository contains a Google Earth Engine (GEE) script to monitor surface water changes in Lake Bosomtwe, Ghana, using Sentinel-2 satellite imagery.
 
 Overview:
