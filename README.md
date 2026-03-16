@@ -13,7 +13,7 @@ Exports: Generates RGB, NDWI, and Binary Mask images directly to Google Drive.
 
 How to Use:
 Open the Google Earth Engine Code Editor.
-Copy the contents of script.js from this repo into the editor.
+Copy the contents of "GEE Code" from this repo into the editor.
 Click Run to see the layers and the calculated area in the Console.
 Check the Tasks tab to export the processed imagery.
 
